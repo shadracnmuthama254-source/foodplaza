@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FoodPlaza Kenyan Multi-Vendor Market",
+  "description": "A comprehensive food ordering platform specializing in Kenyan cuisine, featuring vendor dashboards, product management, and a seamless checkout experience in Kenyan Shillings (Ksh).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
